@@ -11,11 +11,12 @@ const siteConfig = {
         { text: "音乐", url: "https://kfcvme50.fyi/music.html" },
         { text: "视频与文案", url: "https://kfcvme50.fyi/" },
         { text: "图床", url: "https://imgbed.kfcvme50.fyi/" }
+        { text: "个人导航", url: "https://v0v.us.kg/" }
     ],
     footerLinks: [
         { text: "YouTube", url: "https://www.youtube.com" },
         { text: "Twitter", url: "https://www.twitter.com" },
-        { text: "Email", url: "mailto:ll01@anche.no" }
+        { text: "Email", url: "mailto:mail@mail.com" }
     ]
 };
 

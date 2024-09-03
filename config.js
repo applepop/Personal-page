@@ -10,7 +10,7 @@ const siteConfig = {
         { text: "资源站", url: "https://v0v.us.kg/" },
         { text: "音乐", url: "https://kfcvme50.fyi/music.html" },
         { text: "视频与文案", url: "https://kfcvme50.fyi/" },
-        { text: "图床", url: "https://imgbed.kfcvme50.fyi/" }
+        { text: "图床", url: "https://imgbed.kfcvme50.fyi/" },
         { text: "个人导航", url: "https://v0v.us.kg/" }
     ],
     footerLinks: [
